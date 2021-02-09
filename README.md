@@ -8,5 +8,9 @@ A self portrait of myself, Dana, made entirely with p5.js shapes and functions!
 
 
 ### Technical Details
+### Sketches
+**(1) sketch**
+Sketch with my self portrait. Made entirely from p5.js simple shapes
 
-*take your hand drawn portrait and reinterpret it using just P5.js drawing functions. No drawing in Illustrator, scanning in images. This should all be procedural code.*
+### Assets
+![](selfportimg.png)
