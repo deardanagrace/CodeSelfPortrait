@@ -1,3 +1,14 @@
+/*********************************************************
+Code Self Portrait
+by Dana Capistrano
+
+A self portraid made entirely in p5.js simple shapes
+
+----------------------------------------------------------
+Notes: I think I shoulve have used for... loops for some parts that are repetitive,
+but i could not figure out how to do for loops that are diagonal?
+
+*********************************************************/
 // Global
 var braidnum =3;
 var braidX=200;
